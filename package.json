@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "report-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,9 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.19.2"
-  }
+  "license": "ISC"
 }
